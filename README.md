@@ -1,5 +1,6 @@
 # Offer-Recommender-System-for-Telecom-Products-Services
-Business Overview Offer recommendation in the telecom industry refers to the process of suggesting personalized offers to customers based on their usage patterns, demographics, and other relevant factors.Offering recommendations in the telecom industry is crucial forimproving customer satisfaction and increasing revenue. By using advanced algorithms and big data techniques, telecom companies can provide customers with relevant and valuable offers, leading to higher customer loyalty and long-term growth.
+Business Overview :
+Offer recommendation in the telecom industry refers to the process of suggesting personalized offers to customers based on their usage patterns, demographics, and other relevant factors.Offering recommendations in the telecom industry is crucial forimproving customer satisfaction and increasing revenue. By using advanced algorithms and big data techniques, telecom companies can provide customers with relevant and valuable offers, leading to higher customer loyalty and long-term growth.
 
 Why is Offer Recommendation important?
 ● Increase customer satisfaction: Offer recommendation allows telecom companies
@@ -16,6 +17,7 @@ The offer recommendation in the telecom industry is crucial for improving custom
 satisfaction and increasing revenue. By using advanced algorithms and big data
 techniques, telecom companies can provide customers with relevant and valuable
 offers, leading to higher customer loyalty and long-term growth.
+
 Aim
 1. To perform problem-specific EDA
 2. To understand offer recommendation and why it is important?
@@ -24,6 +26,8 @@ Data Description
 The telecom company from the US provided the data with 98230 customers over 73
 unique features. The features are related to customer demographics, personal
 information, and usage.
+
+
 Tech stack
 ● Language - Python, SQL
 ● Cloud - AWS
